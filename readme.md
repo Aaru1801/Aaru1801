@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[Your current learning topic, e.g., React.js, Machine Learning]**
-- 👯 I’m looking to collaborate on **[Your collaboration interests, e.g., open source projects, hackathons]**
-- 💬 Ask me about **[Your expertise, e.g., Python, Web Development]**
-- 📫 How to reach me: **[Your email or LinkedIn profile]**
-- ⚡ Fun fact: **[A fun fact about you, e.g., I love hiking and outdoor adventures]**
+- 🌱 I’m currently learning **Python, Java, JS, HTML, CSS, Tailwind CSS, Node.js, React, Git**
+- 👯 I’m looking to collaborate on **Hackathons in Toronto**
+- 💬 Ask me about **Python & Web Dev**
+- 📫 How to reach me: **1aaravbhargava@gmail.com, 1bhargavaaar@hdsb.ca, https://www.linkedin.com/in/aarav-bhargava/**
+- ⚡ Fun fact: **I also love playing Badminton**
 
 ## 🛠️ Technologies & Tools
 
