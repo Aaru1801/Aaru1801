@@ -1,4 +1,4 @@
-# Hi there, I'm Aaru1801 👋
+# Hi there, I'm Aarav 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open source projects. Here's a little bit about me:
 
