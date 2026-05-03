@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 📂 Recent Projects
 
-- [**TinyTask-macOS**](https://github.com/Aaru1801/TinyTask-macOS) - Successful ChatGPT Project.
-- [**NotchAni**](https://github.com/Aaru1801/NotchAni) -  Tried to remake ChatGPT with project key licensed by ChatGPT.
-- [**VEX 25-26 Season Code**](https://github.com/Aaru1801/vex-wildvipers-main) - Asteroid Shooter game made on pygame.
+- [**TinyTask-macOS**](https://github.com/Aaru1801/TinyTask-macOS) - TinyTask macro app for macOS
+- [**NotchAni**](https://github.com/Aaru1801/NotchAni) -  NotchAni making your Macbook notch useful
+- [**VEX 25-26 Season Code**](https://github.com/Aaru1801/vex-wildvipers-main) - VEX code for 25-26 season
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
