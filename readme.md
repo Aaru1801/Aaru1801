@@ -4,18 +4,16 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Python, Java, JS, HTML, CSS, Tailwind CSS, Git**
+- 🌱 I’m currently learning **Python, Java, JS, HTML, CSS, Tailwind CSS, Git, C++, Swift**
 - 👯 I’m looking to collaborate on **Hackathons in Toronto**
 - 💬 Ask me about **Python & Web Dev**
 - 📫 How to reach me: **1aaravbhargava@gmail.com, 1bhargavaaar@hdsb.ca, https://www.linkedin.com/in/aarav-bhargava/**
-- ⚡ Fun fact: **I also love playing Badminton**
+- ⚡ Fun fact: **I also love playing Badminton and LOVE VEX!!**
 
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
@@ -32,8 +30,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 📂 Recent Projects
 
-- [**ChatGPT Web**](https://github.com/Aaru1801/AI_ChatBot-Web-Edition) - Successful ChatGPT Project.
-- [**Free ChatGPT 4o**](https://github.com/Aaru1801/ChatGPT-Free-4o) -  Tried to remake ChatGPT with project key licensed by ChatGPT.
-- [**Asteroid Shooter Game**](https://github.com/Aaru1801/AsteroidShooter_2) - Asteroid Shooter game made on pygame.
+- [**TinyTask-macOS**](https://github.com/Aaru1801/TinyTask-macOS) - Successful ChatGPT Project.
+- [**NotchAni**](https://github.com/Aaru1801/NotchAni) -  Tried to remake ChatGPT with project key licensed by ChatGPT.
+- [**VEX 25-26 Season Code**](https://github.com/Aaru1801/vex-wildvipers-main) - Asteroid Shooter game made on pygame.
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
