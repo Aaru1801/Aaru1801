@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 🌱 I’m currently learning **Python, Java, JS, HTML, CSS, Tailwind CSS, Git, C++, Swift**
 - 👯 I’m looking to collaborate on **Hackathons in Toronto**
 - 💬 Ask me about **Python & Web Dev**
-- 📫 How to reach me: **1aaravbhargava@gmail.com, 1bhargavaaar@hdsb.ca, https://www.linkedin.com/in/aarav-bhargava/**
+- 📫 How to reach me: **1aaravbhargava@gmail.com, https://www.linkedin.com/in/aarav-bhargava/**
 - ⚡ Fun fact: **I also love playing Badminton and LOVE VEX!!**
 
 ## 🛠️ Technologies & Tools
